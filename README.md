@@ -84,9 +84,9 @@ tables.
 
 Now we're going to create a schema based on the following information:
 
-* A project has a title, a category, a funding goal, a start date, and an end date.
-* A user has a name and an age
-* A pledge has an amount. It belongs to a user, and it also belongs to a project.
+<!-- * A project has a title, a category, a funding goal, a start date, and an end date. -->
+<!-- * A user has a name and an age -->
+<!-- * A pledge has an amount. It belongs to a user, and it also belongs to a project. -->
 
 ### Create the Tables
 
